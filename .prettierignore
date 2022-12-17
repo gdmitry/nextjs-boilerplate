@@ -1,0 +1,8 @@
+# Ignore artifacts:
+dist
+coverage
+types
+playwright-report
+.next
+package-lock.json
+analyze
